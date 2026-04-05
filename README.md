@@ -1,3 +1,3 @@
 # base-first-repo
 Base Guild Learner Role 
-My first repo
+My first base repo
