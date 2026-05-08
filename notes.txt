@@ -1,2 +1,2 @@
 This is my first commit task
-day 36 program task
+day 42 program task
